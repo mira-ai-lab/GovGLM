@@ -1,0 +1,32 @@
+# Dataset License Agreement
+
+This dataset (including but not limited to the collection, curation, cleaning, structuring, annotation, and metadata of government documents) is created and provided by [Jie Ma].
+
+This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**, supplemented by the following explicit research-use restrictions.
+
+You are free to share and adapt the dataset under the following conditions:
+
+1. **Attribution**: You must give appropriate credit, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+2. **NonCommercial**: You may not use the material for commercial purposes.
+
+## 🚫 Strict Restrictions
+
+1. **Research Use Only**: This dataset is strictly permitted for academic research, educational purposes, and non-profit public interest analysis. 
+2. **Prohibition of Commercial Use**: The use of this dataset, its derivatives, or any part thereof for any commercial purpose is strictly prohibited. This includes, but is not limited to:
+   - Training, fine-tuning, or developing commercial Artificial Intelligence (AI), Large Language Models (LLMs), software, or services.
+   - Using the data for any profit-driven data analysis, consulting, or reporting.
+   - Packaging, selling, or distributing the dataset as a component of a commercial product.
+3. **No Additional Restrictions**: You may not apply legal terms or technological measures that legally or practically restrict others from doing anything this license permits.
+
+## ⚠️ Disclaimer and Limitation of Liability
+
+1. **Nature of Data**: This dataset is compiled from publicly available government documents. The provider makes no representations or warranties of any kind, express or implied, regarding the absolute accuracy, completeness, timeliness, or fitness for a particular purpose of the data.
+2. **Legal Compliance**: By accessing and using this dataset, you are solely responsible for ensuring that your use complies with all applicable local, national, and international laws and regulations (including but not limited to data security, privacy, and government data usage laws).
+3. **Limitation of Liability**: The dataset is provided on an "as-is" basis. In no event shall the dataset provider be held liable for any direct, indirect, incidental, special, or consequential damages arising out of the use of or inability to use this dataset.
+
+---
+
+To view the full legal text of the CC BY-NC 4.0 license, please visit:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+For inquiries regarding this dataset or to request commercial licensing, please contact: [jiema@xjtu.edu.cn]
