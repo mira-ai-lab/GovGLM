@@ -1,6 +1,6 @@
 # <u>GovGLM</u>
 
-# 📚 [Your Dataset Name]
+# 📚 [PolicyBank]
 
 > ⚠️ **Usage Restriction**: This dataset is strictly for **academic and non-profit research use only**. **Commercial use is strictly prohibited.** 
 > 
