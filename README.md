@@ -10,9 +10,6 @@
 
 ---
 
-## 📖 About this Dataset
-... (您的数据集介绍内容) ...
-
 ## Overview
 
 This repository contains the code for the paper ***A Contrastive Learning-Driven Method for Constructing Government Affairs Large Language Models*** and the Chinese Government Affairs Corpus, **PolicyBank**.
