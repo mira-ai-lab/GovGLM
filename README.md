@@ -1,5 +1,11 @@
 # <u>GovGLM</u>
 
+# 📚 [PolicyBank]
+
+> ⚠️ **Usage Restriction**: This dataset is strictly for **academic and non-profit research use only**. **Commercial use is strictly prohibited.** This dataset is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Overview
 
 This repository contains the code for the paper ***A Contrastive Learning-Driven Method for Constructing Government Affairs Large Language Models*** and the Chinese Government Affairs Corpus, **PolicyBank**.
@@ -102,7 +108,7 @@ customize training setting on total training steps `--max_steps` , unit step to 
 
 To evaluate the model, use the provided scripts to run the evaluation on the test dataset:
 
-`python full_evaluate.py` , one can change whether to add trained module by commenting out line `model = PeftModel.from_pretrained(model, "./loraModule")`
+`python full_evaluate.py`. One can change whether to add the trained module by commenting out the line `model = PeftModel.from_pretrained(model, "./loraModule")`
 
 the script would evaluate based on predetermined metrics and output a final score.
 
