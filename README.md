@@ -1,10 +1,17 @@
 # <u>GovGLM</u>
 
-# 📚 [PolicyBank]
+# 📚 [Your Dataset Name]
 
-> ⚠️ **Usage Restriction**: This dataset is strictly for **academic and non-profit research use only**. **Commercial use is strictly prohibited.** This dataset is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+> ⚠️ **Usage Restriction**: This dataset is strictly for **academic and non-profit research use only**. **Commercial use is strictly prohibited.** 
+> 
+> 📄 **Please read the full terms and conditions in the [`LICENSE`](./license) file.**
 
-[![License]([https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)]([https://creativecommons.org/licenses/by-nc/4.0/](https://github.com/mira-ai-lab/GovGLM/blob/main/license)](https://github.com/mira-ai-lab/GovGLM/blob/main/license))
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](./license)
+
+---
+
+## 📖 About this Dataset
+... (您的数据集介绍内容) ...
 
 ## Overview
 
