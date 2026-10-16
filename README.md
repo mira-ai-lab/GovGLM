@@ -4,7 +4,7 @@
 
 > ⚠️ **Usage Restriction**: This dataset is strictly for **academic and non-profit research use only**. **Commercial use is strictly prohibited.** This dataset is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
-[![License]([https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/](https://github.com/mira-ai-lab/GovGLM/blob/main/license))
+[![License]([https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)]([https://creativecommons.org/licenses/by-nc/4.0/](https://github.com/mira-ai-lab/GovGLM/blob/main/license)](https://github.com/mira-ai-lab/GovGLM/blob/main/license))
 
 ## Overview
 
